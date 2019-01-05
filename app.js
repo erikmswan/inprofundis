@@ -15,6 +15,7 @@ module.exports = Object.freeze({
   constants: {
     appTitle: 'In Profundis.',
     storage: 'REDUX_HOT_RELOAD_STORAGE',
+    googleAnalyticsID: 'UA-46018035-3',
 
     // events
     setPlaceholder: 'SET_PLACEHOLDER',
