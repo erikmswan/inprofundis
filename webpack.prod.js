@@ -4,7 +4,6 @@ const common = require('./webpack.common.js');
 const CleanWebpackPlugin = require("clean-webpack-plugin");
 
 const cleanOptions = {
-  root: '/Users/erikswan/Sites/inprofundis',
   verbose: true,
   dry: false
 };
