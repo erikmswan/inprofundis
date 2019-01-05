@@ -1,0 +1,25 @@
+
+// typography
+$base-font-color: #333;
+$base-font-weight: 400;
+$base-font-size: 16px;
+$base-font-family: 'Helvetica', sans-serif;
+
+$roboto: 'Roboto', $base-font-family;
+$open-sans: 'Helvetica', $base-font-family;
+
+// color
+$black: #000;
+$white: #FFF;
+$gray247: rgb(247, 247, 247);
+
+
+// layout
+$max-content-width: 1000px;
+$max-copy-width: 600px;
+
+// media queries
+$xs: 'screen and (max-width: 480px)';
+$sm: 'screen and (max-width: 768px)';
+$md: 'screen and (max-width: 1024px)';
+$lg: 'screen and (max-width: 1200px)';

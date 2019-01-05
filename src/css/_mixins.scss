@@ -1,0 +1,138 @@
+
+// ypography
+@mixin light {
+  font-weight: 300;
+}
+
+@mixin regular {
+  font-weight: 400;
+}
+
+@mixin bold {
+  font-weight: 700;
+}
+
+@mixin truncate-text {
+  text-overflow: ellipsis;
+  overflow-x: hidden;
+  white-space: nowrap;
+}
+
+@mixin button {
+  font-weight: bold;
+  font-size: 18px;
+  display: inline-block;
+  background: $white;
+  color: $brand-red;
+  box-shadow: -1px 2px 5px 2px fade-out($black, .7);
+  padding: 11px 29px;
+  border-radius: 3px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+
+// positioning & layout
+@mixin flex-center($justify-content-val: center) {
+  display: flex;
+  align-items: center;
+  @if $justify-content-val != no-justify {
+      justify-content: $justify-content-val;
+  }
+}
+
+@mixin block-center {
+  display: block;
+  margin: 0 auto;
+}
+
+@mixin fit-container($offset: 0) {
+  position: absolute;
+  top: 0 + $offset;
+  right: 0 + $offset;
+  bottom: 0 + $offset;
+  left: 0 + $offset;
+}
+
+@mixin max-content-width($max-width: $max-content-width) {
+  max-width: $max-width;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// imagery
+@mixin masthead-image($url) {
+  background: url($url) 50% 50% / cover no-repeat;
+}
+
+
+// ANIMATION
+
+// The 'anim-hide' and 'anim-show' mixins help with revealing and hiding with a transition.
+// display:none; doesn't tween to display:block; – so opacity must be used.
+// However, simply changing the opacity just makes it transparent – the element
+// is still part of the DOM and can be interacted with.
+// The 'visibility' property will hide the element from the DOM after it is tweened.
+@mixin anim-show($delay: 0s) {
+  opacity: 1;
+  visibility: visible;
+  @include anim-transition-delay($delay);
+}
+
+@mixin anim-hide($delay: 0s) {
+  opacity: 0;
+  visibility: hidden;
+  @include anim-transition-delay($delay);
+}
+
+@mixin anim-transition-delay($delay: 0s) {
+  transition: opacity .33s ease-in-out $delay,
+              visibility .33s ease-in-out $delay,
+              transform .33s ease-in-out $delay;
+}
+
+@mixin fade-in-initial($delay: 0s) {
+  @include anim-hide($delay);
+}
+
+@mixin fade-in-active($delay: 0s) {
+  @include anim-show($delay);
+  transform: none;
+}
+
+@mixin fade-up-initial($delay: 0s) {
+  @include fade-in-initial($delay);
+  transform: translateY(5px);
+}
+
+@mixin fade-up-active($delay: 0s) {
+  @include fade-in-active($delay);
+}
+
+@mixin fade-right-initial($delay: 0s) {
+  @include fade-in-initial($delay);
+  transform: translateX(-5px);
+}
+
+@mixin fade-right-active($delay: 0s) {
+  @include fade-in-active($delay);
+}
+
+@mixin fade-down-initial($delay: 0s) {
+  @include fade-in-initial($delay);
+  transform: translateY(-5px);
+}
+
+@mixin fade-down-active($delay: 0s) {
+  @include fade-in-active($delay);
+}
+
+@mixin fade-left-initial($delay: 0s) {
+  @include fade-in-initial($delay);
+  transform: translateX(5px);
+}
+
+@mixin fade-left-active($delay: 0s) {
+  @include fade-in-active($delay);
+}

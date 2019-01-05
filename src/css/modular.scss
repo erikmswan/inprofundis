@@ -1,0 +1,64 @@
+@import 'globals';
+
+// grid
+$xs-grid: 'screen and (min-width: 0)';
+$sm-grid: 'screen and (min-width: 480px)';
+$md-grid: 'screen and (min-width: 768px)';
+$lg-grid: 'screen and (min-width: 1024px)';
+
+$xs-txt: 'xs';
+$sm-txt: 'sm';
+$md-txt: 'md';
+$lg-txt: 'lg';
+
+$media-queries: (
+  ($xs-grid $xs-txt),
+  ($sm-grid $sm-txt),
+  ($md-grid $md-txt),
+  ($lg-grid $lg-txt)
+);
+
+.row {
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+@each $media-query in $media-queries {
+  @media #{nth($media-query, 1)} {
+    @for $i from 1 through 12 {
+      .col-#{nth($media-query, 2)}-#{$i} {
+        flex-basis: $i / 12 * 100 + 0%;
+      }
+    }
+  }
+}
+
+
+// button
+.button {
+  @include button;
+}
+
+
+// 'stripe' of content
+.stripe {
+  padding: 90px 30px;
+
+  &:nth-of-type(even) {
+    background: $gray247;
+  }
+
+  h1 {
+    margin-bottom: 60px;
+  }
+}
+
+.stripe-inner {
+  @include max-content-width;
+  text-align: center;
+
+  @media #{$sm} {
+    text-align: left;
+  }
+}
