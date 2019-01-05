@@ -1,6 +1,13 @@
 const webpack = require('webpack');
 const merge = require('webpack-merge');
 const common = require('./webpack.common.js');
+const CleanWebpackPlugin = require("clean-webpack-plugin");
+
+const cleanOptions = {
+  root: '/Users/erikswan/Sites/inprofundis',
+  verbose: true,
+  dry: false
+};
 
 let config = merge(common, {
   mode: 'production',
@@ -20,6 +27,7 @@ let config = merge(common, {
     }
   },
   plugins: [
+    new CleanWebpackPlugin('./dist', cleanOptions),
     new webpack.EnvironmentPlugin({
       production: true
     })
