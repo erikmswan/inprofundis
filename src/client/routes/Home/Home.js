@@ -1,4 +1,4 @@
-import './Home.scss';
+import "./Home.scss";
 import * as React from "react";
 import { hot } from "react-hot-loader";
 
@@ -115,7 +115,7 @@ export const Home = () => (
 
     <p>
       And if he wasn’t being tortured, he was the one torturing. Even worse, in
-      the form of the demon he became, he wanted to.
+      the form of the demon he became, he <em>wanted to</em>.
     </p>
 
     <p>
@@ -179,7 +179,7 @@ export const Home = () => (
       impossible to swim in. However you flailed or struggled, regardless of how
       well you swam in water – if you fell into the river, you were sucked
       under, your arms and legs unable to push yourself in a liquid so weak. He
-      never walked too close to the edge.
+      never walked <em>too</em> close to the edge.
     </p>
 
     <p>
@@ -333,7 +333,8 @@ export const Home = () => (
 
     <p>
       Before he could touch it, the door swung violently open, sending the metal
-      object flailing, and landing with a full-bodied thud against its cradle.
+      object flailing, and landing with a full-bodied <em>thud</em> against its
+      cradle.
     </p>
 
     <p>
@@ -366,22 +367,28 @@ export const Home = () => (
       tongue clicking its teeth as it formed the syllables.
     </p>
 
-    <p>“You are late,” it said.</p>
+    <p>
+      “You are <em>late</em>,” it said.
+    </p>
 
     <p>“The sky grows red before its time. I am here to–”</p>
 
     <p>
       “You have no more time than–” it paused to rearrange its tongue in its
-      mouth, “–than what the Elder provides.”
+      mouth, “–than what the <em>Elder</em> provides.”
     </p>
 
     <p>“Then I submit myself for judgment.”</p>
 
-    <p>“You submit – yourself.”</p>
+    <p>
+      “You <em>submit</em> – yourself.”
+    </p>
 
     <p>The Initiate bowed low.</p>
 
-    <p>“Come – with me.”</p>
+    <p>
+      “<em>Come</em> – with <em>me</em>.”
+    </p>
 
     <p>
       The creature turned on its heel, grabbing a torch mounted near the door
@@ -398,8 +405,8 @@ export const Home = () => (
       the illuminated radius, just enough to log the sense, but not defined
       enough to assign it any profile he could recognize. The sheen of eyes
       appeared briefly and left; elongated, black objects swooped in from above
-      and darted out again; and strange clack clack noises, similar to the sound
-      of teeth of the creature ahead of him, though from elsewhere.
+      and darted out again; and strange <em>clack clack</em> noises, similar to
+      the sound of teeth of the creature ahead of him, though from elsewhere.
     </p>
 
     <p>
@@ -408,11 +415,17 @@ export const Home = () => (
       it, he could see the hint of spiral stairs leading downwards.
     </p>
 
-    <p>“We go – to the council now.</p>
+    <p>
+      “We go – to the <em>council</em> now.
+    </p>
 
-    <p>They are speaking.</p>
+    <p>
+      They are <em>speaking</em>.
+    </p>
 
-    <p>Know – your place,” it said without turning to face him.</p>
+    <p>
+      <em>Know</em> – your place,” it said without turning to face him.
+    </p>
 
     <p>
       He followed the creature downwards past featureless walls, the steps
@@ -543,9 +556,12 @@ export const Home = () => (
     </p>
 
     <p>
-      Tʜᴇ ᴛɪᴍᴇ ᴛᴏ ꜰᴜʟꜰɪʟʟ ʏᴏᴜʀꜱᴇʟᴠᴇꜱ ʜᴀꜱ ᴄᴏᴍᴇ. Tʜᴇ ʟᴀꜱᴛ ꜱᴘᴇᴀᴋᴇʀ ᴛᴏ ǫᴜᴇꜱᴛɪᴏɴ ᴛʜᴇ
-      Oᴍɴɪ Mᴜᴛᴀᴛɪᴏ ᴡᴀꜱ ɢɪᴠᴇɴ ᴛʜᴇ ʜᴏɴᴏʀ ᴏꜰ ɪᴛꜱ ɪɴᴛɪᴍᴀᴛᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ. The mask
-      fanned multiple serrated points outwards, making it look much bigger.
+      <span className="small-caps">
+        The time to fufill yourselves has come. The last speaker to question the
+        Omni Mutatio was given the honor of its intimiate experience.
+      </span>
+      The mask fanned multiple serrated points outwards, making it look much
+      bigger.
     </p>
 
     <p>
@@ -557,7 +573,7 @@ export const Home = () => (
 
     <p>
       “As I guide the city towards the tribute, I must ensure it remains virile
-      and strong. I wish to contribute more, in ways that go beyond our time in
+      and strong. I wish to contribute <em>more</em>, in ways that go beyond our time in
       the Depths. I do not question the authority of the Domitorem in any way.
       But by knowing its purpose, we can serve the cause the rest of the year,
       as well.”
@@ -581,8 +597,8 @@ export const Home = () => (
       Every moment of the blood sky is our divine right, our Rebirth,” he said,
       growing louder and straining his face, one hand pounding the wooden table
       before him with every emphasis. “Without our service, we have nothing – we
-      are nothing. Do you presume you could comprehend the motives of the
-      Domitorem? The arrogance is galling even for you, Lady Tyrant,” he said
+      <em>are</em> nothing. Do you presume you could <em>comprehend</em> the motives of the
+      Domitorem? The arrogance is galling even for you, Lady <em>Tyrant</em>,” he said
       with a venomous emphasis on her title, which was met with a chorus of
       muttering around him and some heads nodding fiercely.
     </p>
@@ -704,17 +720,23 @@ export const Home = () => (
     </p>
 
     <p>
-      Iꜰ ᴛʜᴇʀᴇ ɪꜱ ᴀ ꜰᴀɪʟᴜʀᴇ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴛʜᴇ ᴄɪᴛʏ, ɪᴛ ɪꜱ ʏᴏᴜʀꜱ. I ᴡᴏᴜʟᴅ ᴇxᴘᴇᴄᴛ ᴛʜɪꜱ
-      ꜰʀᴏᴍ ᴛʜᴇ Rᴇᴅᴄʟᴏᴀᴋꜱ, ʙᴜᴛ ɴᴏᴛ ꜰʀᴏᴍ ʏᴏᴜ. The Elder’s mask blossomed with
-      teeth and eyes that stretched in random directions to cover every part of
-      its surface. Its exquisite antlers trembled as it spoke, sending black
-      crimson trails pulsing down the side of its body.
+      <span className="small-caps">
+        If there is a failure to manage the city, it is yours. I would expect
+        this from the Redcloaks, but not from you.
+      </span>
+      The Elder’s mask blossomed with teeth and eyes that stretched in random
+      directions to cover every part of its surface. Its exquisite antlers
+      trembled as it spoke, sending black crimson trails pulsing down the side
+      of its body.
     </p>
 
     <p>
-      Wᴇ ᴘʀᴏᴠɪᴅᴇ ʙᴏᴜɴᴛɪꜰᴜʟ ʀᴇꜱᴏᴜʀᴄᴇꜱ. Wᴇ ʙʀɪɴɢ ʟɪɢʜᴛ ᴡʜᴇʀᴇ ᴛʜᴇʀᴇ ɪꜱ ᴅᴀʀᴋɴᴇꜱꜱ. Wᴇ
-      ᴀꜱᴋ– it held up one atrophied crooked limb with a single digit extended
-      from it like a crooked nose –ʙᴜᴛ ᴏɴᴇ ᴘʀɪᴄᴇ.
+      <span className="small-caps">
+        We provide bountiful resources. We bring light where there is darkness.
+        We ask–
+      </span>
+      it held up one atrophied crooked limb with a single digit extended from it
+      like a crooked nose <span className="small-caps">–but one price.</span>
     </p>
 
     <p>
@@ -724,10 +746,12 @@ export const Home = () => (
     </p>
 
     <p>
-      I ᴀᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ᴡʜʏ ʏᴏᴜ ᴘᴜʀꜱᴜᴇ ᴛʜɪꜱ. Lᴇᴛ ᴜꜱ ꜱᴘᴇᴀᴋ ꜰʀᴇᴇʟʏ. Tʜᴏꜱᴇ ᴡʜᴏ ꜰᴇᴇʟ
-      ᴛʜᴇ Lᴀᴅʏ Tʏʀᴀɴᴛ’ꜱ ᴡᴏʀᴅꜱ ꜱᴇʀᴠᴇᴅ ᴜꜱ, ꜱᴘᴇᴀᴋ ɴᴏᴡ. The mask’s cluster of teeth
-      had been replaced with a thin line surrounded by small flaps. It’s eyes
-      shrank and became round, black pits.
+      <span className="small-caps">
+        I am interested why you pursue this. Let us speek freely. Those who feel
+        the Lady Tyrant's words served us, speak now.
+      </span>
+      The mask’s cluster of teeth had been replaced with a thin line surrounded
+      by small flaps. It’s eyes shrank and became round, black pits.
     </p>
 
     <p>
@@ -770,15 +794,17 @@ export const Home = () => (
     <p>After a silence, the Elder spoke.</p>
 
     <p>
-      Hᴏɴᴇꜱᴛʏ ɪꜱ ʀᴇᴡᴀʀᴅᴇᴅ ʙʏ ᴛʜᴇ ɢᴇɴᴇʀᴏꜱɪᴛʏ ᴏꜰ ᴛʜᴇ Dᴏᴍɪᴛᴏʀᴇᴍ. Yᴏᴜʀ ᴘʟᴇᴀꜱ ʜᴀᴠᴇ
-      ʙᴇᴇɴ ɴᴏᴛᴇᴅ. Wʜᴀᴛ ᴄᴀɴɴᴏᴛ ʙᴇ ɪɢɴᴏʀᴇᴅ, ʜᴏᴡᴇᴠᴇʀ, ᴀʀᴇ ǫᴜᴇꜱᴛɪᴏɴꜱ ᴛᴏ ᴏᴜʀ ᴡɪʟʟ. Iᴛ
-      ɪꜱ ꜰᴏᴜʟ ɪɴꜱᴜʙᴏʀᴅɪɴᴀᴛɪᴏɴ. Tʜᴏꜱᴇ ᴡʜᴏ ꜱʜᴏᴡᴇᴅ ꜱᴜᴘᴘᴏʀᴛ ᴀʀᴇ ꜱᴘᴀʀᴇᴅ, ʙᴜᴛ ᴛʜᴇ Lᴀᴅʏ
-      Tʏʀᴀɴᴛ ᴡɪʟʟ ʙᴇ ᴛᴀᴋᴇɴ, ᴀɴᴅ ᴘᴜɴɪꜱʜᴍᴇɴᴛ ᴍᴇᴛᴇᴅ ᴏᴜᴛ ᴀꜱ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴛʜᴇ ᴡɪʟʟ ᴏꜰ
-      ᴛʜᴇ ᴀʟᴍɪɢʜᴛʏ Dᴏᴍɪᴛᴏʀᴇᴍ. Sᴀɴᴄᴛᴜᴍ ꜱɪʟᴇɴᴛɪᴜᴍ.
+      <span className="small-caps">
+        Honesty is rewarded by the generosity of the Domitorem. Your pleas have
+        been noted. What cannot be ignored, however, are questions to our will.
+        It is foul insubordination. Those who showed support are spared, but the
+        Lady Tyrant will be taken, and punishment meted out as according to the
+        will of the almighty Domitorem. Sanctum silentium.
+      </span>
     </p>
 
     <p>
-      As he finished, the Black Madonna walked forward into the center of the
+      As it finished, the Black Madonna walked forward into the center of the
       room, steady and calm, betraying no sign of surprise. The Elder’s face
       grew long eyes drooping in a way he could almost interpret as sadness or
       mockery if it weren’t for the clenching fangs below.
@@ -804,10 +830,13 @@ export const Home = () => (
     </p>
 
     <p>
-      Wᴇ ʜᴀᴠᴇ ᴄᴏɴᴄʟᴜᴅᴇᴅ ᴛʜɪꜱ ᴅɪꜱᴄᴜꜱꜱɪᴏɴ. Tʜᴇʀᴇ ᴀʀᴇ ᴏᴛʜᴇʀ ᴍᴀᴛᴛᴇʀꜱ. Wᴇ ᴍᴜꜱᴛ
-      ᴘᴇʀꜰᴏʀᴍ ᴛʜᴇ ꜰɪɴᴀʟ ʀɪᴛᴇ ᴏɴ ᴛʜᴇ ɪɴɪᴛɪᴀᴛᴇ ᴀɴᴅ ᴀᴄᴄᴇᴘᴛ ʜɪᴍ ɪɴᴛᴏ ᴛʜᴇ Sᴘᴇᴀᴋᴇʀ’ꜱ
-      Oʀᴅᴇʀ. Pʟᴇᴀꜱᴇ, ʙʀɪɴɢ ʜɪᴍ ꜰᴏʀᴛʜ. The Elder’s masked hid its teeth and
-      revealed four black eyes the size of coins.
+      <span className="small-caps">
+        Wᴇ ʜᴀᴠᴇ ᴄᴏɴᴄʟᴜᴅᴇᴅ ᴛʜɪꜱ ᴅɪꜱᴄᴜꜱꜱɪᴏɴ. Tʜᴇʀᴇ ᴀʀᴇ ᴏᴛʜᴇʀ ᴍᴀᴛᴛᴇʀꜱ. Wᴇ ᴍᴜꜱᴛ
+        ᴘᴇʀꜰᴏʀᴍ ᴛʜᴇ ꜰɪɴᴀʟ ʀɪᴛᴇ ᴏɴ ᴛʜᴇ ɪɴɪᴛɪᴀᴛᴇ ᴀɴᴅ ᴀᴄᴄᴇᴘᴛ ʜɪᴍ ɪɴᴛᴏ ᴛʜᴇ Sᴘᴇᴀᴋᴇʀ’ꜱ
+        Oʀᴅᴇʀ. Pʟᴇᴀꜱᴇ, ʙʀɪɴɢ ʜɪᴍ ꜰᴏʀᴛʜ.
+      </span>
+      The Elder’s masked hid its teeth and revealed four black eyes the size of
+      coins.
     </p>
 
     <p>
@@ -966,7 +995,7 @@ export const Home = () => (
     <p>
       It finally made sense. The mysterious visitor. The offer of vengeance. To
       hurt a demon for once. Oh God, the horrors we endure. I had to do
-      something, anything, even if it meant I died – especially if it meant I
+      something, <em>anything</em>, even if it meant I died – especially if it meant I
       died.
     </p>
 
