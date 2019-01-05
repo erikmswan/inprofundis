@@ -28,10 +28,11 @@ $invalid-red: #ff3f3f;
 $focus-blue: #40a7ff;
 
 // typography
-$base-font-family: 'Helvetica', sans-serif;
-$base-font-color: $gray-104;
-$base-font-size: 16px;
-$roboto-condensed: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+$alegreya: 'Alegreya', Arial, Helvetica, sans-serif;
+$averia: 'Averia Serif Libre', Arial, Helvetica, sans-serif;
+$base-font-family: $alegreya;
+$base-font-color: #333;
+$base-font-size: 18px;
 
 // animation
 $long-ease-out: cubic-bezier(0.11, 0.62, 0.35, 1);

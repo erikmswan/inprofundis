@@ -27,6 +27,11 @@
   white-space: nowrap;
 }
 
+@mixin small-caps {
+  font-variant: small-caps;
+  font-weight: 500;
+}
+
 
 // POSITIONING
 @mixin flex-center($justify-content-val: center) {

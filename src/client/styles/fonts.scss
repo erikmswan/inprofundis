@@ -1,71 +1,84 @@
 
 // FONT FACE
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-Light-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-Regular.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-LightItalic-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-Italic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-Light-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-LightItalic-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-Italic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-Light-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-LightItalic-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-Regular-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-Bold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-Italic-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-BoldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-Regular-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('../assets/fonts/roboto/RobotoCondensed-Italic-webfont.ttf') format('truetype');
+    font-family: 'Alegreya';
+    src: url('../assets/fonts/alegreya/Alegreya-BoldItalic.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
 }
+
+
+
+// Averia Serif Libre
+
+@font-face {
+  font-family: 'Averia Serif Libre';
+  src: url('../assets/fonts/averia-serif-libre/AveriaSerifLibre-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+

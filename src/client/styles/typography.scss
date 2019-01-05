@@ -2,7 +2,7 @@
 body {
   font-size: $base-font-size;
   font-family: $base-font-family;
-  color: $gray-104;
+  color: $base-font-color;
   margin: 0;
 
   * {
@@ -11,25 +11,31 @@ body {
 }
 
 h1 {
-  font-family: $roboto-condensed;
+  font-family: $averia;
+  font-weight: 400;
   font-size: 36px;
 }
 
 h2 {
-  font-family: $roboto-condensed;
+  font-family: $alegreya;
   font-size: 28px;
 }
 
 h3 {
-  font-family: $roboto-condensed;
+  font-family: $alegreya;
   font-size: 20px;
   font-weight: normal;
   text-align: center;
   margin: 0 0 20px;
 }
 
+p {
+  line-height: 1.5;
+  margin: 0;
+  text-indent: 25px;
+}
+
 a {
-  color: $gray-68;
   font-weight: bold;
   text-decoration: none;
 }
@@ -60,4 +66,8 @@ button {
     background: white;
     transition: 0s;
   }
+}
+
+.small-caps {
+  @include small-caps;
 }
