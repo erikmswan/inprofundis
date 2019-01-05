@@ -9,18 +9,20 @@ import { hot } from 'react-hot-loader';
 import {
   Home
 } from 'routes';
-import {
-  Switcher
-} from 'components';
+// import {
+//   Switcher
+// } from 'components';
 
 const App = ({ locationType }) => (
   <div className={`${locationType} app-container`}>
     <div className='content-container'>
-      <Switcher
+      {/* routes disabled for now */}
+      <Home />
+      {/* <Switcher
         routes={{
           HOME: Home
         }}
-      />
+      /> */}
     </div>
   </div>
 );

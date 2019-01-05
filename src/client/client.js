@@ -1,8 +1,8 @@
 import axios from 'axios';
-import { getApiKey } from 'state/selectors';
+// import { getApiKey } from 'state/selectors';
 import * as daos from './dao';
 import { serviceHosts } from 'app';
-import { store } from 'src';
+// import { store } from 'src';
 
 class Client {
   constructor(serviceHosts) {
@@ -16,23 +16,23 @@ class Client {
     });
   }
 
-  request = ({ url, method, data, auth, ...options }) => (
+  request = ({ url, method, data, ...options }) => (
     axios({
       url,
       method,
       data,
-      ...this.addAuthData(auth),
+      // ...this.addAuthData(auth),
       ...options,
     })
   )
 
-  addAuthData = auth => auth
-    ? this.addApiKey(getApiKey(store.getState()))
-    : {}
+  // addAuthData = auth => auth
+  //   ? this.addKey(getKey(store.getState()))
+  //   : {}
   
-  addApiKey = apiKey => ({
+  addKey = apiKey => ({
     headers: {
-      'X-RMS-API-KEY': apiKey
+      'Bearer': apiKey
     }
   })
 }
