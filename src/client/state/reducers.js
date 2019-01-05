@@ -1,2 +1,2 @@
 
-export { placeholder } from './modules/creditCardMeta/reducer';
+export { placeholder } from './modules/placeholder/reducer';

@@ -2,6 +2,9 @@
 import 'styles/main.scss';
 import './App.scss';
 import * as React from 'react';
+import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+import { getLocationType } from 'state/selectors';
 import { hot } from 'react-hot-loader';
 import {
   Home
@@ -10,8 +13,8 @@ import {
   Switcher
 } from 'components';
 
-const App = () => (
-  <div className='app-container'>
+const App = ({ locationType }) => (
+  <div className={`${locationType} app-container`}>
     <div className='content-container'>
       <Switcher
         routes={{
@@ -21,4 +24,13 @@ const App = () => (
     </div>
   </div>
 );
-export default hot(module)(App);
+
+App.propTypes = {
+  locationType: PropTypes.string
+};
+
+const mapStateToProps = state => ({
+  locationType: getLocationType(state)
+});
+
+export default hot(module)(connect(mapStateToProps)(App));

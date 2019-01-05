@@ -19,7 +19,7 @@ const babelOptions = {
 
 let config = {
   entry: {
-    app: ['./src/index.js']
+    app: ['./src/client/index.js']
   },
   output: {
     path: path.resolve(__dirname, 'dist')
@@ -56,7 +56,7 @@ let config = {
           {
             loader: 'sass-loader',
             options: {
-              includePaths: ['src/styles']
+              includePaths: ['src/client/styles']
             }
           }
         ]
@@ -107,12 +107,12 @@ let config = {
     new HtmlWebpackPlugin({
       title: constants.appTitle,
       filename: 'index.html',
-      template: path.resolve(__dirname, 'src') + '/index.ejs',
+      template: path.resolve(__dirname, 'src') + '/client/index.ejs',
       inject: 'body'
     }),
     new CopyWebpackPlugin([
       {
-        from: path.resolve(__dirname, 'src/assets'),
+        from: path.resolve(__dirname, 'src/client/assets'),
         to: 'assets'
       }
     ]),
