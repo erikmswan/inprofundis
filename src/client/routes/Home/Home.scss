@@ -11,4 +11,8 @@
   margin-top: 120px;
   margin-bottom: 70px;
   letter-spacing: 0.7px;
+
+  @media screen and (max-width: 400px) {
+    font-size: 46px;
+  }
 }
