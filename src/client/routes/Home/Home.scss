@@ -16,3 +16,16 @@
     font-size: 46px;
   }
 }
+
+.signature {
+  font-family: $averia;
+  font-size: 24px;
+  margin: 40px 0;
+  text-align: right;
+
+  a {
+    color: $base-font-color;
+    font-weight: 400;
+    text-decoration: none;
+  }
+}

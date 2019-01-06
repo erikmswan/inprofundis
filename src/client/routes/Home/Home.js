@@ -1023,6 +1023,8 @@ export const Home = () => (
     </p>
 
     <p>“Welcome to the resistance.”</p>
+
+    <p className="signature"><a href="http://erikmichaelswan.com" target="_blank" rel="noopener noreferrer">– E.M.S.</a></p>
   </div>
 );
 
