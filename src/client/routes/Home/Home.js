@@ -184,7 +184,7 @@ export const Home = () => (
 
     <p>
       Beyond the city walls was a wasteland. Attempts in ancient times to settle
-      outside the city met with universal failure. If it wasn’t the the dead
+      outside the city met with universal failure. If it wasn’t the dead
       soil, the constant storms or the all-encompassing fog, it was vicious
       predators perfectly adapted to the harshness of the environment and
       scouring every corner of the badlands. Instead, small pockets of
@@ -239,7 +239,7 @@ export const Home = () => (
 
     <p>
       The demons policing the line looked similar to the transformed citizens,
-      having the same wilted, lanky appendages, flaky, blemished brown skin and
+      having the same wilted, lanky appendages, flaky, blemished skin and
       giant heads, their mouths filled with inch-long fangs that were always
       visible. Their ears were each the size of their already freakishly large
       head, giving him the impression of a provoked reptile about to strike.
@@ -353,8 +353,7 @@ export const Home = () => (
       eyes were unsettling in size – large pits with shimmering black globes
       sunken deep into the skull, with small, bright red points that darted from
       his face to his body and back again. Its skin, matching what the citizens
-      of the city now had, looked wrinkled and atrophied, alternating between a
-      deep brown and a putrid yellow mixture, obscured by scales and inky
+      of the city now had, looked wrinkled and atrophied, obscured by scales and inky
       blemishes.
     </p>
 
