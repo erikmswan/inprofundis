@@ -560,8 +560,8 @@ export const Home = () => (
         The time to fufill yourselves has come. The last speaker to question the
         Omni Mutatio was given the honor of its intimiate experience.
       </span>
-      &nbsp;The mask fanned multiple serrated points outwards, making it look much
-      bigger.
+      &nbsp;The mask fanned multiple serrated points outwards, making it look
+      much bigger.
     </p>
 
     <p>
@@ -596,7 +596,7 @@ export const Home = () => (
       Domitorem unconditionally and without question. His guidance is our light.
       Every moment of the blood sky is our divine right, our Rebirth,” he said,
       growing louder and straining his face, one hand pounding the wooden table
-      before him with every emphasis. “Without our service, we have nothing – we 
+      before him with every emphasis. “Without our service, we have nothing – we
       <em>are</em> nothing. Do you presume you could <em>comprehend</em> the
       motives of the Domitorem? The arrogance is galling even for you, Lady{" "}
       <em>Tyrant</em>,” he said with a venomous emphasis on her title, which was
@@ -724,10 +724,10 @@ export const Home = () => (
         If there is a failure to manage the city, it is yours. I would expect
         this from the Redcloaks, but not from you.
       </span>
-      &nbsp;The Elder’s mask blossomed with teeth and eyes that stretched in random
-      directions to cover every part of its surface. Its exquisite antlers
-      trembled as it spoke, sending black crimson trails pulsing down the side
-      of its body.
+      &nbsp;The Elder’s mask blossomed with teeth and eyes that stretched in
+      random directions to cover every part of its surface. Its exquisite
+      antlers trembled as it spoke, sending black crimson trails pulsing down
+      the side of its body.
     </p>
 
     <p>
@@ -735,8 +735,9 @@ export const Home = () => (
         We provide bountiful resources. We bring light where there is darkness.
         We ask–
       </span>
-      &nbsp;it held up one atrophied crooked limb with a single digit extended from it
-      like a crooked nose <span className="small-caps">–but one price.</span>
+      &nbsp;it held up one atrophied crooked limb with a single digit extended
+      from it like a crooked nose{" "}
+      <span className="small-caps">–but one price.</span>
     </p>
 
     <p>
@@ -750,8 +751,8 @@ export const Home = () => (
         I am interested why you pursue this. Let us speek freely. Those who feel
         the Lady Tyrant's words served us, speak now.
       </span>
-      &nbsp;The mask’s cluster of teeth had been replaced with a thin line surrounded
-      by small flaps. It’s eyes shrank and became round, black pits.
+      &nbsp;The mask’s cluster of teeth had been replaced with a thin line
+      surrounded by small flaps. It’s eyes shrank and became round, black pits.
     </p>
 
     <p>
@@ -835,8 +836,8 @@ export const Home = () => (
         perform the final rite on the initiate and accept him into the Speaker's
         order. Please, bring him forth.
       </span>
-      &nbsp;The Elder’s masked hid its teeth and revealed four black eyes the size of
-      coins.
+      &nbsp;The Elder’s masked hid its teeth and revealed four black eyes the
+      size of coins.
     </p>
 
     <p>
@@ -1007,7 +1008,8 @@ export const Home = () => (
       She appeared to smile again. “Ah, see, that’s why I’m here. As I said,
       killing an Elder is no small feat. We have some things we would like you
       to do. If you help us, you will be part of our family and learn the
-      secrets we keep in our struggle against the Domitorem. What do you say? Do you want it?”
+      secrets we keep in our struggle against the Domitorem. What do you say? Do
+      you want it?”
     </p>
 
     <p>
@@ -1018,13 +1020,21 @@ export const Home = () => (
     <p>“More than I’ve wanted anything in my life.”</p>
 
     <p>
-      She gave his head a final pat and rose, leaving the candle at his bedside
-      . Before walking into the darkness, she looked down at him.
+      She gave his head a final pat and rose, leaving the candle at his bedside.
+      Before walking into the darkness, she looked down at him.
     </p>
 
     <p>“Welcome to the resistance.”</p>
 
-    <p className="signature"><a href="http://erikmichaelswan.com" target="_blank" rel="noopener noreferrer">– E.M.S.</a></p>
+    <p className="signature">
+      <a
+        href="http://erikmichaelswan.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        – E.M.S.
+      </a>
+    </p>
   </div>
 );
 
