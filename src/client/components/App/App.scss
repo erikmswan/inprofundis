@@ -2,10 +2,10 @@
 
 .app-container {
   @include flex-center();
-  background: white;
+  background: linear-gradient(to bottom, $white, $black);
   flex-direction: column;
   min-height: 100vh;
   @media #{$no-color-change} {
-    background: white !important;
+    background: white;
   }
 }
