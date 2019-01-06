@@ -4,8 +4,8 @@
   "description": "In Profundis.",
   "main": "./src/client/index.js",
   "scripts": {
-    "start": "webpack --config webpack.prod.js",
-    "start:dev": "webpack-dev-server --inline --colors --config webpack.dev.js"
+    "build": "webpack --config webpack.prod.js",
+    "dev": "webpack-dev-server --inline --colors --config webpack.dev.js"
   },
   "repository": {
     "type": "git",
