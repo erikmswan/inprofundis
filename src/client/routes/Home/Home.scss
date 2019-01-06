@@ -1,19 +1,44 @@
 @import 'globals.scss';
 
 .content-container {
-  max-width: 560px;
+  max-width: 590px;
   margin: 0 auto;
   padding: 15px;
 }
 
 .title {
   font-size: 55px;
+  padding: 0 30px;
   margin-top: 120px;
-  margin-bottom: 70px;
+  margin-bottom: 60px;
   letter-spacing: 0.7px;
+
+  @media #{$no-color-change} {
+    padding: 0;
+  }
 
   @media screen and (max-width: 370px) {
     font-size: 46px;
+  }
+}
+
+.story-body {
+  background: rgba(255, 255, 255, .9);
+  padding: 0 30px;
+  p {
+    &:first-child {
+      padding-top: 10px;
+    }
+    &:last-child {
+      padding-bottom: 30px;
+    }
+  }
+  @media #{$no-color-change} {
+    background: none;
+    padding: 0;
+    p {
+      padding: 0;
+    }
   }
 }
 
@@ -24,8 +49,11 @@
   text-align: right;
 
   a {
-    color: $base-font-color;
+    color: $signature-color;
     font-weight: 400;
     text-decoration: none;
+    @media #{$no-color-change} {
+      color: $base-font-color;
+    }
   }
 }

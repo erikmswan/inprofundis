@@ -1,7 +1,7 @@
-import * as React from "react";
+import * as React from 'react';
 
 export default (
-  <div className="story-body">
+  <div className='story-body'>
     <p>
       As he walked down the black-cobbled street, he marked the faces of the
       people, pallid and glacial, as they watched the reddening of the sky.
@@ -551,7 +551,7 @@ export default (
     </p>
 
     <p>
-      <span className="small-caps">
+      <span className='small-caps'>
         The time to fufill yourselves has come. The last speaker to question the
         Omni Mutatio was given the honor of its intimiate experience.
       </span>
@@ -593,7 +593,7 @@ export default (
       growing louder and straining his face, one hand pounding the wooden table
       before him with every emphasis. “Without our service, we have nothing – we
       <em>are</em> nothing. Do you presume you could <em>comprehend</em> the
-      motives of the Domitorem? The arrogance is galling even for you, Lady{" "}
+      motives of the Domitorem? The arrogance is galling even for you, Lady{' '}
       <em>Tyrant</em>,” he said with a venomous emphasis on her title, which was
       met with a chorus of muttering around him and some heads nodding fiercely.
     </p>
@@ -715,7 +715,7 @@ export default (
     </p>
 
     <p>
-      <span className="small-caps">
+      <span className='small-caps'>
         If there is a failure to manage the city, it is yours. I would expect
         this from the Redcloaks, but not from you.
       </span>
@@ -726,13 +726,13 @@ export default (
     </p>
 
     <p>
-      <span className="small-caps">
+      <span className='small-caps'>
         We provide bountiful resources. We bring light where there is darkness.
         We ask–
       </span>
       &nbsp;it held up one atrophied crooked limb with a single digit extended
-      from it like a crooked nose{" "}
-      <span className="small-caps">–but one price.</span>
+      from it like a crooked nose{' '}
+      <span className='small-caps'>–but one price.</span>
     </p>
 
     <p>
@@ -742,7 +742,7 @@ export default (
     </p>
 
     <p>
-      <span className="small-caps">
+      <span className='small-caps'>
         I am interested why you pursue this. Let us speek freely. Those who feel
         the Lady Tyrant's words served us, speak now.
       </span>
@@ -790,7 +790,7 @@ export default (
     <p>After a silence, the Elder spoke.</p>
 
     <p>
-      <span className="small-caps">
+      <span className='small-caps'>
         Honesty is rewarded by the generosity of the Domitorem. Your pleas have
         been noted. What cannot be ignored, however, are questions to our will.
         It is foul insubordination. Those who showed support are spared, but the
@@ -826,7 +826,7 @@ export default (
     </p>
 
     <p>
-      <span className="small-caps">
+      <span className='small-caps'>
         We have concluded this discussion. There are other matters. We must
         perform the final rite on the initiate and accept him into the Speaker's
         order. Please, bring him forth.
