@@ -1007,7 +1007,7 @@ export const Home = () => (
       She appeared to smile again. “Ah, see, that’s why I’m here. As I said,
       killing an Elder is no small feat. We have some things we would like you
       to do. If you help us, you will be part of our family and learn the
-      secrets we keep in our struggle against the Domitorem. What do you say?”
+      secrets we keep in our struggle against the Domitorem. What do you say? Do you want it?”
     </p>
 
     <p>
