@@ -831,7 +831,7 @@ export default (
         perform the final rite on the initiate and accept him into the Speaker's
         order. Please, bring him forth.
       </span>
-      &nbsp;The Elder’s masked hid its teeth and revealed four black eyes the
+      &nbsp;The Elder’s mask hid its teeth and revealed four black eyes the
       size of coins.
     </p>
 
