@@ -27,9 +27,11 @@ $gray-228: rgb(228, 228, 228);
 $signature-color: #e82929;
 
 // typography
-$alegreya: 'Alegreya', Arial, Helvetica, sans-serif;
-$averia: 'Averia Serif Libre', Arial, Helvetica, sans-serif;
+$alegreya: 'Alegreya', Arial, serif;
+$averia: 'Averia Serif Libre', Arial, serif;
+$garamond-premier-pro: 'Garamond Premier Pro', Arial, serif;
 $base-font-family: $alegreya;
+// $base-font-family: $garamond-premier-pro;
 $base-font-color: #333;
 $base-font-size: 18px;
 

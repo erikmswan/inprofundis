@@ -1,5 +1,6 @@
 
-// FONT FACE
+// Alegreya
+
 @font-face {
     font-family: 'Alegreya';
     src: url('../assets/fonts/alegreya/Alegreya-Regular.ttf') format('truetype');
@@ -68,6 +69,65 @@
     src: url('../assets/fonts/alegreya/Alegreya-BoldItalic.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
+}
+
+
+// Alegreya
+
+@font-face {
+  font-family: 'Garamond Premier Pro';
+  src: url('../assets/fonts/garamond-premier-pro/Garamond Premier Pro Regular.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Garamond Premier Pro';
+  src: url('../assets/fonts/garamond-premier-pro/Garamond Premier Pro Italic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Garamond Premier Pro';
+  src: url('../assets/fonts/garamond-premier-pro/Garamond Premier Pro Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Garamond Premier Pro';
+  src: url('../assets/fonts/garamond-premier-pro/Garamond Premier Pro Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Garamond Premier Pro';
+  src: url('../assets/fonts/garamond-premier-pro/Garamond Premier Pro Semibold.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Garamond Premier Pro';
+  src: url('../assets/fonts/garamond-premier-pro/Garamond Premier Pro Semibold Italic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Garamond Premier Pro';
+  src: url('../assets/fonts/garamond-premier-pro/Garamond Premier Pro Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Garamond Premier Pro';
+  src: url('../assets/fonts/garamond-premier-pro/Garamond Premier Pro Semibold Italic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
 }
 
 
