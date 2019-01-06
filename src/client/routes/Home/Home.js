@@ -560,7 +560,7 @@ export const Home = () => (
         The time to fufill yourselves has come. The last speaker to question the
         Omni Mutatio was given the honor of its intimiate experience.
       </span>
-      The mask fanned multiple serrated points outwards, making it look much
+      &nbsp;The mask fanned multiple serrated points outwards, making it look much
       bigger.
     </p>
 
@@ -573,10 +573,10 @@ export const Home = () => (
 
     <p>
       “As I guide the city towards the tribute, I must ensure it remains virile
-      and strong. I wish to contribute <em>more</em>, in ways that go beyond our time in
-      the Depths. I do not question the authority of the Domitorem in any way.
-      But by knowing its purpose, we can serve the cause the rest of the year,
-      as well.”
+      and strong. I wish to contribute <em>more</em>, in ways that go beyond our
+      time in the Depths. I do not question the authority of the Domitorem in
+      any way. But by knowing its purpose, we can serve the cause the rest of
+      the year, as well.”
     </p>
 
     <p>
@@ -596,11 +596,11 @@ export const Home = () => (
       Domitorem unconditionally and without question. His guidance is our light.
       Every moment of the blood sky is our divine right, our Rebirth,” he said,
       growing louder and straining his face, one hand pounding the wooden table
-      before him with every emphasis. “Without our service, we have nothing – we
-      <em>are</em> nothing. Do you presume you could <em>comprehend</em> the motives of the
-      Domitorem? The arrogance is galling even for you, Lady <em>Tyrant</em>,” he said
-      with a venomous emphasis on her title, which was met with a chorus of
-      muttering around him and some heads nodding fiercely.
+      before him with every emphasis. “Without our service, we have nothing – we 
+      <em>are</em> nothing. Do you presume you could <em>comprehend</em> the
+      motives of the Domitorem? The arrogance is galling even for you, Lady{" "}
+      <em>Tyrant</em>,” he said with a venomous emphasis on her title, which was
+      met with a chorus of muttering around him and some heads nodding fiercely.
     </p>
 
     <p>
@@ -724,7 +724,7 @@ export const Home = () => (
         If there is a failure to manage the city, it is yours. I would expect
         this from the Redcloaks, but not from you.
       </span>
-      The Elder’s mask blossomed with teeth and eyes that stretched in random
+      &nbsp;The Elder’s mask blossomed with teeth and eyes that stretched in random
       directions to cover every part of its surface. Its exquisite antlers
       trembled as it spoke, sending black crimson trails pulsing down the side
       of its body.
@@ -735,7 +735,7 @@ export const Home = () => (
         We provide bountiful resources. We bring light where there is darkness.
         We ask–
       </span>
-      it held up one atrophied crooked limb with a single digit extended from it
+      &nbsp;it held up one atrophied crooked limb with a single digit extended from it
       like a crooked nose <span className="small-caps">–but one price.</span>
     </p>
 
@@ -750,7 +750,7 @@ export const Home = () => (
         I am interested why you pursue this. Let us speek freely. Those who feel
         the Lady Tyrant's words served us, speak now.
       </span>
-      The mask’s cluster of teeth had been replaced with a thin line surrounded
+      &nbsp;The mask’s cluster of teeth had been replaced with a thin line surrounded
       by small flaps. It’s eyes shrank and became round, black pits.
     </p>
 
@@ -831,11 +831,11 @@ export const Home = () => (
 
     <p>
       <span className="small-caps">
-        Wᴇ ʜᴀᴠᴇ ᴄᴏɴᴄʟᴜᴅᴇᴅ ᴛʜɪꜱ ᴅɪꜱᴄᴜꜱꜱɪᴏɴ. Tʜᴇʀᴇ ᴀʀᴇ ᴏᴛʜᴇʀ ᴍᴀᴛᴛᴇʀꜱ. Wᴇ ᴍᴜꜱᴛ
-        ᴘᴇʀꜰᴏʀᴍ ᴛʜᴇ ꜰɪɴᴀʟ ʀɪᴛᴇ ᴏɴ ᴛʜᴇ ɪɴɪᴛɪᴀᴛᴇ ᴀɴᴅ ᴀᴄᴄᴇᴘᴛ ʜɪᴍ ɪɴᴛᴏ ᴛʜᴇ Sᴘᴇᴀᴋᴇʀ’ꜱ
-        Oʀᴅᴇʀ. Pʟᴇᴀꜱᴇ, ʙʀɪɴɢ ʜɪᴍ ꜰᴏʀᴛʜ.
+        We have concluded this discussion. There are other matters. We must
+        perform the final rite on the initiate and accept him into the Speaker's
+        order. Please, bring him forth.
       </span>
-      The Elder’s masked hid its teeth and revealed four black eyes the size of
+      &nbsp;The Elder’s masked hid its teeth and revealed four black eyes the size of
       coins.
     </p>
 
@@ -995,8 +995,8 @@ export const Home = () => (
     <p>
       It finally made sense. The mysterious visitor. The offer of vengeance. To
       hurt a demon for once. Oh God, the horrors we endure. I had to do
-      something, <em>anything</em>, even if it meant I died – especially if it meant I
-      died.
+      something, <em>anything</em>, even if it meant I died – especially if it
+      meant I died.
     </p>
 
     <p>He didn’t realize anyone could actually fight them.</p>
