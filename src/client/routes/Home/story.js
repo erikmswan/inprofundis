@@ -931,7 +931,7 @@ export default (
       lying limp on a flat surface, followed by the slow rising and falling of
       his chest. Once he felt his breathing, the pain hit him. It was
       excruciating. He realized the dryness of his face was actually intense
-      pain, blooming through his body like being submerged in it. Every moment
+      pain, blooming through his body like ink injected into water. Every moment
       felt as if he was both being burned again and pressed against frigid ice.
       In order to distract him from the pain, he tried opening his eyes.
     </p>
@@ -1008,7 +1008,7 @@ export default (
     </p>
 
     <p>
-      He waited a moment, not to take anytime deciding, but for added gravity in
+      He waited a moment, not to take any time deciding, but for added gravity in
       his answer.
     </p>
 
