@@ -1,7 +1,7 @@
-import * as React from 'react';
+import * as React from "react";
 
 export default (
-  <div className='story-body'>
+  <div className="story-body">
     <p>
       As he walked down the black-cobbled street, he marked the faces of the
       people, pallid and glacial, as they watched the reddening of the sky.
@@ -551,7 +551,7 @@ export default (
     </p>
 
     <p>
-      <span className='small-caps'>
+      <span className="small-caps">
         The time to fufill yourselves has come. The last speaker to question the
         Omni Mutatio was given the honor of its intimiate experience.
       </span>
@@ -593,7 +593,7 @@ export default (
       growing louder and straining his face, one hand pounding the wooden table
       before him with every emphasis. “Without our service, we have nothing – we
       <em>are</em> nothing. Do you presume you could <em>comprehend</em> the
-      motives of the Domitorem? The arrogance is galling even for you, Lady{' '}
+      motives of the Domitorem? The arrogance is galling even for you, Lady{" "}
       <em>Tyrant</em>,” he said with a venomous emphasis on her title, which was
       met with a chorus of muttering around him and some heads nodding fiercely.
     </p>
@@ -715,7 +715,7 @@ export default (
     </p>
 
     <p>
-      <span className='small-caps'>
+      <span className="small-caps">
         If there is a failure to manage the city, it is yours. I would expect
         this from the Redcloaks, but not from you.
       </span>
@@ -726,13 +726,13 @@ export default (
     </p>
 
     <p>
-      <span className='small-caps'>
+      <span className="small-caps">
         We provide bountiful resources. We bring light where there is darkness.
         We ask–
       </span>
       &nbsp;it held up one atrophied crooked limb with a single digit extended
-      from it like a crooked nose{' '}
-      <span className='small-caps'>–but one price.</span>
+      from it like a crooked nose{" "}
+      <span className="small-caps">–but one price.</span>
     </p>
 
     <p>
@@ -742,7 +742,7 @@ export default (
     </p>
 
     <p>
-      <span className='small-caps'>
+      <span className="small-caps">
         I am interested why you pursue this. Let us speek freely. Those who feel
         the Lady Tyrant's words served us, speak now.
       </span>
@@ -790,7 +790,7 @@ export default (
     <p>After a silence, the Elder spoke.</p>
 
     <p>
-      <span className='small-caps'>
+      <span className="small-caps">
         Honesty is rewarded by the generosity of the Domitorem. Your pleas have
         been noted. What cannot be ignored, however, are questions to our will.
         It is foul insubordination. Those who showed support are spared, but the
@@ -826,13 +826,13 @@ export default (
     </p>
 
     <p>
-      <span className='small-caps'>
+      <span className="small-caps">
         We have concluded this discussion. There are other matters. We must
         perform the final rite on the initiate and accept him into the Speaker's
         order. Please, bring him forth.
       </span>
-      &nbsp;The Elder’s mask hid its teeth and revealed four black eyes the
-      size of coins.
+      &nbsp;The Elder’s mask hid its teeth and revealed four black eyes the size
+      of coins.
     </p>
 
     <p>
@@ -937,11 +937,11 @@ export default (
     </p>
 
     <p>
-      At first, he saw nothing but a blurry haze. After moments of burning pain,
-      he slowly resolved the outline of a slender woman sitting beside him, a
-      small candle lighting her from beneath. She had black hair that swaddled
-      her, almost consuming her. Regaining some piece of who he was, he
-      recognized her as the Black Madonna.
+      At first, he saw nothing but a blurry haze. After a few moments, he slowly
+      resolved the outline of a slender woman sitting beside him, a small candle
+      lighting her from beneath. She had black hair that swaddled her, almost
+      consuming her. Regaining some piece of who he was, he recognized her as
+      the Black Madonna.
     </p>
 
     <p>
@@ -952,7 +952,7 @@ export default (
 
     <p>
       He tried to form words in his mouth, and it first, nothing seemed to come
-      out but dust and a dry wheeze. Eventually, he generated enough saliva to
+      out but dust and dry wheezing. Eventually, he generated enough saliva to
       form words in his throat.
     </p>
 
@@ -966,7 +966,9 @@ export default (
     </p>
 
     <p>
-      “I did not think I would survive,” he said, the words coming easier now.
+      “I didn't think I would survive,” he said, the words coming easier now.
+      His face, however, never forgot to remind him his condition as his muscles
+      contracted.
     </p>
 
     <p>
@@ -974,7 +976,10 @@ export default (
       you.”
     </p>
 
-    <p>“Won’t the Domitorem transform us and destroy us? Aren’t we doomed?”</p>
+    <p>
+      His first thought was fear. “Won’t the Domitorem transform us and destroy
+      us? Aren’t we doomed?”
+    </p>
 
     <p>
       She lifted her hand and looked at him. While it was hard to tell through
@@ -982,17 +987,17 @@ export default (
     </p>
 
     <p>
-      “We have ways to prevent the transformation. They are secrets passed down
-      to us for generations. The Domitorem cannot find us here.” She began
+      “We have ways of preventing the transformation. They are secrets passed
+      down to us for generations. The Domitorem cannot find us here.” She began
       pressing against his forehead again. “We seek to overthrow the Domitorem
       and free ourselves forever.”
     </p>
 
     <p>
       It finally made sense. The mysterious visitor. The offer of vengeance. To
-      hurt a demon for once. Oh God, the horrors we endure. I had to do
-      something, <em>anything</em>, even if it meant I died – especially if it
-      meant I died.
+      hurt a demon for once – oh God, the horrors we endure – I had to do
+      something, <em>anything</em>, even if it meant I died. Especially if it meant I
+      died.
     </p>
 
     <p>He didn’t realize anyone could actually fight them.</p>
@@ -1008,8 +1013,8 @@ export default (
     </p>
 
     <p>
-      He waited a moment, not to take any time deciding, but for added gravity in
-      his answer.
+      He waited a moment, not to take any time deciding, but for added gravity
+      in his answer.
     </p>
 
     <p>“More than I’ve wanted anything in my life.”</p>
