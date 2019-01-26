@@ -5,7 +5,7 @@ import story from './story';
 
 export const Home = () => (
   <div className='home-container'>
-    <h1 className='title'>In Profundis.</h1>
+    <h1 className='title' title='Into the Depths.'>In Profundis.</h1>
     {story}
     <p className='signature'>
       <a
