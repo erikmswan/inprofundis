@@ -221,7 +221,7 @@ export default (
       firmly and pulling him towards her. Her grip was freezing. The initiate watched her as she examined his arm,
       turning it over and studying his wrist and hand. He could only guess what she was looking for. Various markings of
       the flesh are used to invoke forbidden types of power, which he had seen on corpses throughout the city. Perhaps
-      she looked for marking such as those. Or perhaps she was looking to make her own.
+      she looked for markings such as those. Or perhaps she was looking to make her own.
     </p>
     <p>
       She dropped his arm and looked up at him, eyes black and hard. “I know of the treachery your brother committed.
@@ -232,7 +232,7 @@ export default (
     <p>
       He felt a bead of sweat form at his temple. Hadn’t he proved it enough? He had given no one a reason to doubt his
       loyalty. Even when his cohort kept their distance, when they eyed him suspiciously and whispered to each other
-      when they thought he couldn’t see them, he had kept his composure and trudged on. He performed the rites, he said
+      when they thought he couldn’t hear them, he had kept his composure and pressed on. He performed the rites, he said
       the words, he bled just as they did. Surely, no one doubted him still? He hardened his face and spoke.
     </p>
     <p>
@@ -255,17 +255,17 @@ export default (
     <p>“Yes, Speaker.”</p>
     <p>“Describe what you see.”</p>
     <p>
-      The margins of the Domitorem were the first thing he comprehended. “It has sharp protrusions running along its
+      The margins of the Domitorem were the first thing his mind comprehended. “It has sharp protrusions running along its
       perimeter that are stuck in webs. The webs wrap a mass in the center that spills through in trails down its side
-      and into its many legs, surrounding it like a curled centipede.” He stopped to look at he, but she was looking
-      away at neither him nor the tribute. He continued, “It rises upwards, flanked by... runes. At the top is what many
-      consider the “head,” though it is obscured by a white cover that is tightly pulled. Through the cover, one can see
+      and into its many legs, surrounding it like a curled centipede.” He stopped to look at her, but she was looking
+       at neither him nor the tribute. He continued, “It rises upwards, flanked by... runes. At the top is what many
+      consider the ‘head,’ though it is obscured by a white cover that is tightly pulled. Through the cover, one can see
       a dozen holes near the top, and a single large hole near the bottom. Above the Domitorem is a double-helix of
       bones, collected from sacrifices in the Depths. Only the first tier is complete. The second tier has just begun.”
       He stopped again to look at her.
     </p>
     <p>
-      She paced slowly along the street, contemplating something. Though he heard the bustly of the city only moments
+      She paced slowly along the street, contemplating something. Though he heard the bustle of the city only moments
       before, he was painfully aware of the silence that lay over them, a stuffiness and closeness that unnerved him.
       The sky had fallen a deep shade of crimson, and the light thickened the air with menace. Buildings that were gray,
       blue, green or white were all now just red. She stopped and turned to him.
@@ -278,10 +278,9 @@ export default (
     </p>
     <p>
       With that, she walked back into the alley, passing beyond sight in the pitch black. He stood there, peering into
-      the darkness, imagining he could see her walk, still. After a moment, he rubbed his hood against his temple,
-      wiping off the sweat. He would have to control his body better if he wished to become a Speaker.
+      the darkness, imagining he could see her still. After a moment, he rubbed his hood against his temple,
+      wiping away the sweat. He would have to control his body better if he wished to survive the initiation.
     </p>
-    <p>He turned back to the path and continued his journey to the Elder.</p>
     <Divider />
     <p>
       He emerged onto the long path that followed the river Kultata, which would take him directly to his destination.
