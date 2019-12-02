@@ -19,7 +19,7 @@ const babelOptions = {
 
 let config = {
   entry: {
-    app: ["./src/client/index.js"]
+    app: ["./src/index.js"]
   },
   output: {
     path: path.resolve(__dirname, "dist")
@@ -56,7 +56,7 @@ let config = {
           {
             loader: "sass-loader",
             options: {
-              includePaths: ["src/client/styles"]
+              includePaths: ["src/styles"]
             }
           }
         ]
@@ -107,12 +107,12 @@ let config = {
     new HtmlWebpackPlugin({
       title: constants.appTitle,
       filename: "index.html",
-      template: path.resolve(__dirname, "src") + "/client/index.ejs",
+      template: path.resolve(__dirname, "src") + "/index.ejs",
       inject: "body"
     }),
     new CopyWebpackPlugin([
       {
-        from: path.resolve(__dirname, "src/client/assets"),
+        from: path.resolve(__dirname, "src/assets"),
         to: "assets"
       }
     ]),
@@ -123,16 +123,16 @@ let config = {
   resolve: {
     alias: {
       src: path.resolve(__dirname, "src"),
-      client: path.resolve(__dirname, "src/client/client"),
+      client: path.resolve(__dirname, "src/client"),
       app: path.resolve(__dirname, "app.js"),
-      assets: path.resolve(__dirname, "src/client/assets"),
-      components: path.resolve(__dirname, "src/client/components"),
-      dao: path.resolve(__dirname, "src/client/dao"),
-      lib: path.resolve(__dirname, "src/client/lib"),
-      routes: path.resolve(__dirname, "src/client/routes"),
-      state: path.resolve(__dirname, "src/client/state"),
-      styles: path.resolve(__dirname, "src/client/styles"),
-      stubs: path.resolve(__dirname, "src/client/stubs")
+      assets: path.resolve(__dirname, "src/assets"),
+      components: path.resolve(__dirname, "src/components"),
+      dao: path.resolve(__dirname, "src/dao"),
+      lib: path.resolve(__dirname, "src/lib"),
+      routes: path.resolve(__dirname, "src/routes"),
+      state: path.resolve(__dirname, "src/state"),
+      styles: path.resolve(__dirname, "src/styles"),
+      stubs: path.resolve(__dirname, "src/stubs")
     },
     extensions: [".js", ".css", ".jsx", ".less", ".scss"]
   }
