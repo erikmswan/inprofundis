@@ -244,7 +244,7 @@ export default (
       through your body. A true speaker speaks in all languages at once. And it is our own voice we must hear. Do you
       understand?”
     </p>
-    <p>The speaker hesitated. “I… I understand that words must be carefully chosen. We must be true to our intent.”</p>
+    <p>The Initiate hesitated. “I… I understand that words must be carefully chosen. We must be true to our intent.”</p>
     <p>
       Almost imperceptibly, she nodded. “We must be true to our intent, yes. Carefully chosen, yes. But what is true in
       one language is a lie in another. When mixing domains, we get the unexpected.” She paused, as if waiting for him
