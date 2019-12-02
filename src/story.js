@@ -255,14 +255,14 @@ export default (
     <p>“Yes, Speaker.”</p>
     <p>“Describe what you see.”</p>
     <p>
-      The margins of the Domitorem were the first thing his mind comprehended. “It has sharp protrusions running along its
-      perimeter that are stuck in webs. The webs wrap a mass in the center that spills through in trails down its side
-      and into its many legs, surrounding it like a curled centipede.” He stopped to look at her, but she was looking
-       at neither him nor the tribute. He continued, “It rises upwards, flanked by... runes. At the top is what many
-      consider the ‘head,’ though it is obscured by a white cover that is tightly pulled. Through the cover, one can see
-      a dozen holes near the top, and a single large hole near the bottom. Above the Domitorem is a double-helix of
-      bones, collected from sacrifices in the Depths. Only the first tier is complete. The second tier has just begun.”
-      He stopped again to look at her.
+      The margins of the Domitorem were the first thing his mind comprehended. “It has sharp protrusions running along
+      its perimeter that are stuck in webs. The webs wrap a mass in the center that spills through in trails down its
+      side and into its many legs, surrounding it like a curled centipede.” He stopped to look at her, but she was
+      looking at neither him nor the tribute. He continued, “It rises upwards, flanked by... runes. At the top is what
+      many consider the ‘head,’ though it is obscured by a white cover that is tightly pulled. Through the cover, one
+      can see a dozen holes near the top, and a single large hole near the bottom. Above the Domitorem is a double-helix
+      of bones, collected from sacrifices in the Depths. Only the first tier is complete. The second tier has just
+      begun.” He stopped again to look at her.
     </p>
     <p>
       She paced slowly along the street, contemplating something. Though he heard the bustle of the city only moments
@@ -278,24 +278,23 @@ export default (
     </p>
     <p>
       With that, she walked back into the alley, passing beyond sight in the pitch black. He stood there, peering into
-      the darkness, imagining he could see her still. After a moment, he rubbed his hood against his temple,
-      wiping away the sweat. He would have to control his body better if he wished to survive the initiation.
+      the darkness, imagining he could see her still. After a moment, he rubbed his hood against his temple, wiping away
+      the sweat. He would have to control his body better if he wished to survive the initiation.
     </p>
     <Divider />
     <p>
       He emerged onto the long path that followed the river Kultata, which would take him directly to his destination.
       There were five rivers in the city of First Child, each forming a perfect circle around the city center in
       progressive rings. They were natural lines in the hierarchy between various guilds that governed each district of
-      the city, the ones being closer to the center, of course, being more important and influential. The river Kultata
-      was the second from the city center and bordered the Apothecary Guild district on its outer side, where he now
-      walked. The river had a luster like oil, being a solid, jet black, but glowed as it reflected the sun, refracting
-      the light to give it’s own purples, greens and yellows. It flowed with a substance less viscous and more dense
-      than water, which meant it was impossible to swim in. However you flailed or struggled – regardless of how well
-      you swam in water – if you fell into the river, you were sucked under, your arms and legs unable to push yourself
-      in a liquid so weak. He never walked too close to the edge.
+      the city, the ones closer to the center, of course, being more important and influential. The river Kultata was
+      the second from the city center and bordered the Apothecary Guild district on its outer side, where he now walked.
+      The river had a luster like oil, being a solid, jet black, but glowed as it reflected the sun, refracting the
+      light to give it’s own purples, greens and yellows. It flowed with a substance less viscous and more dense than
+      water, which meant it was impossible to swim in. However you flailed or struggled – regardless of how well you
+      swam in water – if you fell into the river, you were sucked under, your arms and legs unable to push yourself in a
+      liquid so weak. He never walked too close to the edge.
     </p>
     <p>
-      {' '}
       Beyond the city walls was a wasteland. Attempts in ancient times to settle outside the city met with universal
       failure. If it wasn’t the dead soil, the constant storms or the all-encompassing fog, it was vicious predators
       perfectly adapted to the harshness of the environment and scouring every corner of the badlands. Instead, small
@@ -311,8 +310,8 @@ export default (
       sun to rot, leaving only gnarled limbs like tree branches tipped with claws; their skin was scabbed and soaked
       with pus that ran from sickly brown boils. Their gazes, he could feel, moved gradually from the sky and onto him,
       the pits of their eyes shining in the background of pitch. They would soon be leaving their houses to join the
-      others heading for the Depths. He turned his eyes away from the others and towards the ornate, looming building of
-      the Elder, which could be seen from miles away.
+      others heading for the Depths. He turned his eyes towards the ornate, looming building of the Elder, which could
+      be seen from miles away.
     </p>
     <p>
       The transformed others started to fill the paths, waiting in line to enter one of the many activated gates that
@@ -322,7 +321,7 @@ export default (
       metal gates.
     </p>
     <p>
-      Now that the gate was active, the center was pitch black. Red tendrils reached from inside to grip the edges,
+      Now that the gate was active, the center was perfectly dark. Red tendrils reached from inside to grip the edges,
       pulsing and straining as if losing the edges would close it. Other tendrils wrapped the citizens as they entered
       the gate to pull them into the Depths. He saw the transformed citizens mauling each other as they stood in line,
       using their massive claws to rake the backs of the creatures in front, mouths open and fangs bared, tearing flesh.
@@ -333,15 +332,15 @@ export default (
       of a low tide.
     </p>
     <p>
-      The demons policing the line looked similar to the transformed citizens, having the same wilted, lanky appendages,
-      flaky, blemished brown skin and giant heads, their mouths filled with inch-long fangs that were always visible.
-      Their ears were each the size of their already freakishly large head, giving him the impression of a provoked
-      cobra about to strike.
+      The demons policing the line looked similar to the transformed citizens, having the same wilted, lanky appendages;
+      flaky, blemished skin and giant heads, their mouths filled with inch-long fangs that were always visible. Their
+      ears were each the size of their already freakishly large heads, giving him the impression of a provoked cobra
+      about to strike.
     </p>
     <p>
-      He felt a drop on his exposed hand, then another. A rain began, escalating quickly from a gentle shower. It
-      reflected the red sky like beads of blood, the clouds darkening as the moisture in the air coalesced into a storm.
-      As the water began to pool around bodies of the dead, long, thin strands of red flowed through the channels of the
+      He felt a drop on his exposed hand, then another. A rain began, escalating quickly from a gentle shower. Red beads
+      splattered on the ground, and the clouds darkened as the moisture in the air coalesced into a storm. As the water
+      began to pool around bodies of the dead, long, thin strands of blood flowed through the channels of the
       cobblestone street like fresh watercolor, the gruesome art of the citizens’ new forms.
     </p>
     <p>
@@ -360,9 +359,9 @@ export default (
     <p>
       A block to the west of the walls, he saw the alley the stranger had told him about. He carefully slipped behind an
       outcropping in the alley and found a strip of brown canvas covering a mound. The stranger spoke true. He pulled
-      away the canvas to reveal a dagger, about 6 inches in length, and a pair of pincers, which he placed carefully
-      into two pockets sewn into the sleeves of his cloak. They hung heavy, so he pulled his arm tight against him and
-      grasped his sleeve held his sleeve from the inside with his hand before turning back to his original destination.
+      away the canvas to reveal a dagger, about four inches in length, and a pair of pincers, which he placed into two
+      pockets sewn into the sleeves of his cloak. They hung heavy, so he pulled his arm tight against him and held his
+      sleeve from the inside with his hand before turning back to his original destination.
     </p>
     <p>
       He walked up to the gates of the leering tower and stood, looking through them. The low sun, peering through a gap
@@ -371,7 +370,7 @@ export default (
     </p>
     <p>
       After a moment, he heard a loud click and watched the gate unhinge itself and open, drawing itself inward as if
-      the courtyard was inhaling. He carefully stepped through and followed the only path to the door.
+      the courtyard was inhaling. He stepped through and followed the only path to the door.
     </p>
     <p>
       If the streets outside were poorly cobbled, this was much worse. Rock jutted in such severe and random directions
@@ -380,14 +379,14 @@ export default (
     </p>
     <p>
       Lining the path were multiple “structures” made from the bodies of imps – small, angular creatures with
-      razor-sharp claws and 2 inch fangs. They had tufts of mottled fur on the ends of their tails and ears, along with
-      patches over the body. They were bent and broken along the path to form arcane symbols, as if they formed a ward –
-      or a curse. One symbol formed a circumscribed triangle with 6 imps on end, skewered down the middle on curved
-      metal hooks, their limbs stretched, twisted, and clamped to other limbs by compressing a black metal instrument
-      that looked like a bed of nails pushing through either side. Dried blood caked around the wounds and wove
-      downwards in rivulets, long blackened from time. While he had no love for the mischievous creatures, who could be
-      found in the dark corners of the city in roaming bands, he took no pleasure in seeing them treated with such
-      cruelty. He tried not to look at them, though they seemed to bear down on him as if feeling his aversion.
+      razor-sharp claws and two inch fangs. They had tufts of mottled fur on the ends of their tails and ears, along
+      with patches over the body. They were bent and broken along the path to form arcane symbols, as if they formed a
+      ward – or a curse. One symbol formed a circumscribed triangle with six imps on end, skewered down the middle on
+      curved metal hooks, their limbs stretched, twisted, and clamped to other limbs by compressing a black metal
+      instrument that looked like a bed of nails pushing through either side. Dried blood caked around the wounds and
+      wove downwards in rivulets, long blackened from time. While he had no love for the mischievous creatures, who
+      could be found in the dark corners of the city in roaming bands, he took no pleasure in seeing them treated with
+      such cruelty. He tried not to look at them, though they seemed to bear down on him as if feeling his aversion.
     </p>
     <p>
       The path itself grew narrower – the arch covering the pathway drawing closer and the margins of the path shrinking
@@ -396,8 +395,8 @@ export default (
     </p>
     <p>
       As he approached the door, resting beneath an arch filled with the same sinister inscriptions and covered again
-      with the symbol he saw on the gate, he lifted his hand to grip the massive metal object hanging from the door,
-      covered in sharp points in radial patterns that made it impossible to wield without pain, and colored with the
+      with the symbol he saw on the gate, he lifted his hand to grip the massive metal object hanging from the door. It
+      was covered in sharp points in radial patterns that made it impossible to wield without pain, and colored with the
       same indistinct darkness as the path that made it difficult to judge the depth and position of the door-knocker.
     </p>
     <p>
@@ -465,12 +464,11 @@ export default (
     <p>
       <em>Know</em> – your place,” it said without turning to face him.
     </p>
-    <Divider />
     <p>
       He followed the creature downwards past featureless walls, the steps narrow and steep, causing the Initiate to
       hold the wall to ensure he had purchase on the next step, partially obscured by their meager source of light, and
       the fact that darkness licked at his back as the creature advanced away from him, its tail curling around the
-      spiral like a dead vine clinging to the thick base of an Oak.
+      spiral like a dead vine clinging to the thick base of an oak.
     </p>
     <p>
       They walked in silence. As they descended, the Initiate could not mark the time. His legs grew weary from the
@@ -840,8 +838,8 @@ export default (
     </p>
     <p>
       It finally made sense. The mysterious visitor. The offer of vengeance. To hurt a demon for once – oh God, the
-      horrors I’ve seen – I had to do something, <em>anything</em>. He thought of his brother, his head bobbing in a demon’s
-      hand, and a hot rage rose up inside him.
+      horrors I’ve seen – I had to do something, <em>anything</em>. He thought of his brother, his head bobbing in a
+      demon’s hand, and a hot rage rose up inside him.
     </p>
     <p>And for the first time, he realized he could fight them.</p>
     <p>“Where do I sign up?”</p>
