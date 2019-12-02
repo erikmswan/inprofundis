@@ -823,7 +823,7 @@ export default (
     </p>
     <p>
       “There’s no guarantee you would have. But you did. You spoke in all languages. We chose rightly in you. And as I
-      said, if you made the right choice, you would be protected.”
+      said, if you understood me, you would be protected.”
     </p>
     <p>
       {' '}
