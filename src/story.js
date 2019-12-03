@@ -657,7 +657,7 @@ export default (
     <p>
       <span class="small-caps">We provide bountiful resources. We bring light where there is darkness. We ask–</span>it
       held up one atrophied crooked limb with a single digit extended from it like a crooked nose{' '}
-      <span class="small-caps">–ʙᴜᴛ ᴏɴᴇ ᴘʀɪᴄᴇ.</span>
+      <span class="small-caps">–but one price.</span>
     </p>
     <p>
       The room was deathly silent. The loud arguing ceased immediately on the word of the demon sitting far above. Those
@@ -697,7 +697,7 @@ export default (
     <p>After a silence, the Elder spoke.</p>
     <p>
       <span className="small-caps">
-        Honesty is rewarded by the generosity of the Domitorem. Your please have been noted. What cannot be ignored,
+        Honesty is rewarded by the generosity of the Domitorem. Your pleas have been noted. What cannot be ignored,
         however, are questions to our will. It is foul insubordination. Those who showed support are spared, but the
         Lady Tyran will be taken, and punishment meted out as according to the will of the Almighty Domitorem. Sanctum
         silentium.
