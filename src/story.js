@@ -28,7 +28,7 @@ export default (
       Speakers he would soon join. Behind him stood the assembled citizenry of
       the city of First Child, numbering in the tens of thousands, and gathered
       to witness the justice of the Domitorem. Some clustered in the auburn
-      caravans of the Arak, where floating runes burned around their shadowed
+      caravans of the Gephsit, where floating runes burned around their shadowed
       carriages, and a hazy purple mist evaporated above them, the run-off of
       the altered atmosphere they breathed wherever they went. He saw the grand,
       regimented tents covered in meticulously detailed depictions of the
