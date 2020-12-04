@@ -49,8 +49,8 @@ export default (
       eyes watching him.
     </p>
     <p>
-      The Elder stood – if one could use such a term – atop a twisting,
-      blackened platform, high above the cobbled stone of the stage, and
+      Above him, the Elder stood – if one could use such a term – atop a twisting,
+      blackened platform, towering over the cobbled stone of the stage, and
       obscured by crimson drapery. As the official governor-designate of the
       city of First Child, the Elder officiated punishment rituals, especially
       ones as grave as this. Citizens, however, were forbidden to see him. Only
