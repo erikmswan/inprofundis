@@ -122,7 +122,7 @@ export default (
       thought them capable. They ripped and shredded, a fleshly geyser until all
       that remained was a mound lying scattered across the stage, so
       unrecognizable as his brother that for a moment, he felt his brother's
-      suffering had ended, until a demon emerged, holding his head high for all
+      suffering had ended, until a demon emerged, holding his brother's head high for all
       to see, his mouth bobbing open and closed like a fish, as if he still
       breathed.
     </p>
