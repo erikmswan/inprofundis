@@ -56,7 +56,9 @@ let config = {
           {
             loader: "sass-loader",
             options: {
-              includePaths: ["src/styles"]
+              sassOptions: {
+                includePaths: ["src/styles"]
+              }
             }
           }
         ]
