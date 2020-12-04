@@ -49,20 +49,20 @@ export default (
       eyes watching him.
     </p>
     <p>
-      Above him, the Elder stood – if one could use such a term – atop a twisting,
-      blackened platform, towering over the cobbled stone of the stage, and
-      obscured by crimson drapery. As the official governor-designate of the
-      city of First Child, the Elder officiated punishment rituals, especially
-      ones as grave as this. Citizens, however, were forbidden to see him. Only
-      the Speakers – and initiates about to become a Speaker – were permitted to
-      see behind the veil. The silhouettes projected onto the shroud left him no
-      curiosity. It would happen soon enough.
+      Above him, the Elder stood – if one could use such a term – atop a
+      twisting, blackened platform, towering over the cobbled stone of the
+      stage, and obscured by crimson drapery. As the official governor-designate
+      of the city of First Child, the Elder officiated punishment rituals,
+      especially ones as grave as this. Citizens, however, were forbidden to see
+      him. Only the Speakers – and initiates about to become a Speaker – were
+      permitted to see behind the veil. The silhouettes projected onto the
+      shroud left him no curiosity. It would happen soon enough.
     </p>
     <p>
-      Its voice came in rumbling waves that seemed to swaddle him in unyielding
-      blankets of stone, reverberating in such low notes that it was difficult
-      to perceive which direction the voice was coming from. Despite its depth,
-      it was framed by a distinct raspiness that made it painful to hear.
+      Its voice came in rumbling waves that swaddled him like a blanket of
+      stone, reverberating in such low notes that it was difficult to perceive
+      which direction the voice was coming from. Despite its depth, it was
+      framed by a distinct raspiness that made it painful to hear.
     </p>
     <p>
       <span class="small-caps">
